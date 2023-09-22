@@ -38,8 +38,11 @@ Follow these steps to set up and run the Spring security Learner Microservice:
 
 ## Endpoint Security
 
-This currently has very basic security using the default user name("user") and spring generated password(can be seen in
-the application logs)
+V1(deprecated) -- "This currently has very basic security using the default user name("user") and spring generated
+password(can be seen in
+the application logs)"
+
+V2(current version) -- "This application now uses the username and password configured in applicaiton.properties file"
 
 ## API Endpoints
 
