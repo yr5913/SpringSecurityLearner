@@ -32,7 +32,7 @@ Follow these steps to set up and run the Spring security Learner Microservice:
    ```shell
    mvn clean install
 
-4.Run the microservice:
+4. Run the microservice:
    ```shell
    java -jar target/healthpro-customer-microservice.jar
 
